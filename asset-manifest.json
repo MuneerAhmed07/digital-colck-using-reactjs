@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/digital-colck-using-reactjs/static/css/main.2f899f34.css",
+    "main.js": "/digital-colck-using-reactjs/static/js/main.606df00c.js",
+    "static/js/453.f10080c1.chunk.js": "/digital-colck-using-reactjs/static/js/453.f10080c1.chunk.js",
+    "index.html": "/digital-colck-using-reactjs/index.html",
+    "main.2f899f34.css.map": "/digital-colck-using-reactjs/static/css/main.2f899f34.css.map",
+    "main.606df00c.js.map": "/digital-colck-using-reactjs/static/js/main.606df00c.js.map",
+    "453.f10080c1.chunk.js.map": "/digital-colck-using-reactjs/static/js/453.f10080c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f899f34.css",
+    "static/js/main.606df00c.js"
+  ]
+}
